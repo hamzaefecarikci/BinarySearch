@@ -1,1 +1,1 @@
-# BinarySearch
+Bu uygulamada hazır verilen diziyi önce sıralama algoritması kullanarak dizinin elemanları sıralanır. Daha sonra bu dizide kullanıcıdan aramak istediği sayıyı girmesi istenir. İstenilen sonuç Binary Search kullanılarak aranır ve bu değerin olup olmadığı kullanıcıya bildirillir.
